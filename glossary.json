@@ -1,0 +1,1002 @@
+{
+  "アズライール": {
+    "zh": "阿茲拉爾",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "オキタ・Ｊ・ソウジ": {
+    "zh": "沖田・J・總司",
+    "note": "角色名。中間名保留半形 J，全形間隔號「・」",
+    "confirmed": true
+  },
+  "オルガマリー": {
+    "zh": "奧爾加瑪麗",
+    "note": "角色名／迦勒底所長",
+    "confirmed": true
+  },
+  "カッツ": {
+    "zh": "信勝",
+    "note": "角色名。日文暱稱カッツ，譯作信勝（織田信勝）",
+    "confirmed": true
+  },
+  "クッコ君": {
+    "zh": "庫科君",
+    "note": "角色名。クコチヒコ的暱稱",
+    "confirmed": true
+  },
+  "グンママリー": {
+    "zh": "GUNMA瑪麗",
+    "note": "角色名。奧爾加瑪麗在本特異點的姿態",
+    "confirmed": true
+  },
+  "スラノッブ": {
+    "zh": "史萊姆諾布",
+    "note": "角色名。複合諧音保留「諾布」，與單獨「ノッブ」→「信長」的譯法並用",
+    "confirmed": true
+  },
+  "スラノッブ子分": {
+    "zh": "史萊姆諾布手下",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "ダイナマイト利休": {
+    "zh": "炸藥利休",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "ダイナマイト駒": {
+    "zh": "炸藥駒",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "ダ・ヴィンチ": {
+    "zh": "達文西",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "ノッブ": {
+    "zh": "信長",
+    "note": "角色名。單獨指織田信長時譯「信長」；諧音複合詞多保留「諾布」",
+    "confirmed": true
+  },
+  "ノブナガ・オーディ・エタニティ": {
+    "zh": "信長・奧迪・永恆",
+    "note": "角色名。Space信長的稱呼",
+    "confirmed": true
+  },
+  "ヒャッハー野郎ども": {
+    "zh": "呀哈哈的傢伙們",
+    "note": "角色名／群體稱呼",
+    "confirmed": true
+  },
+  "マシュ": {
+    "zh": "瑪修",
+    "note": "角色名略稱。正式全名見「マシュ・キリエライト」。發言欄在 9416430010 自我介紹三處用全名，其餘 16 處用「瑪修」",
+    "confirmed": true
+  },
+  "マシュ・キリエライト": {
+    "zh": "瑪修・基利艾拉特",
+    "note": "角色名全名",
+    "confirmed": true
+  },
+  "一同": {
+    "zh": "眾人",
+    "note": "角色名／群體",
+    "confirmed": true
+  },
+  "三好長慶": {
+    "zh": "三好長慶",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "上杉謙信": {
+    "zh": "上杉謙信",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "久坂玄瑞": {
+    "zh": "久坂玄瑞",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "人型の化け物": {
+    "zh": "人型怪物",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "出雲阿国": {
+    "zh": "出雲阿國",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "千利休": {
+    "zh": "千利休",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "卑弥呼": {
+    "zh": "卑彌呼",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "卑弥呼＆壱与": {
+    "zh": "卑彌呼＆壹與",
+    "note": "角色名／同時發言",
+    "confirmed": true
+  },
+  "原田左之助": {
+    "zh": "原田左之助",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "吉田松陰": {
+    "zh": "吉田松陰",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "和装の男": {
+    "zh": "和服男子",
+    "note": "角色名／未揭示身分時",
+    "confirmed": true
+  },
+  "土方歳三": {
+    "zh": "土方歲三",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "坂本龍馬": {
+    "zh": "坂本龍馬",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "埴輪ノッブ": {
+    "zh": "陶俑諾布",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "壱与": {
+    "zh": "壹與",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "子分ザブロー": {
+    "zh": "手下薩布羅",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "学生服の男": {
+    "zh": "學生服男子",
+    "note": "角色名／未揭示身分時",
+    "confirmed": true
+  },
+  "宿のおばあさん": {
+    "zh": "旅館老婆婆",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "宿のおばあさん？": {
+    "zh": "旅館老婆婆？",
+    "note": "角色名。未知時保留問號",
+    "confirmed": true
+  },
+  "山南敬助": {
+    "zh": "山南敬助",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "岡田以蔵": {
+    "zh": "岡田以藏",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "忌与": {
+    "zh": "忌與",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "斎藤一": {
+    "zh": "齋藤一",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "斬ザブロー": {
+    "zh": "斬薩布羅",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "新田義貞？": {
+    "zh": "新田義貞？",
+    "note": "角色名。未知時保留問號",
+    "confirmed": true
+  },
+  "木こりの子": {
+    "zh": "樵夫的孩子",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "李書文": {
+    "zh": "李書文",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "村人": {
+    "zh": "村民",
+    "note": "角色名／群體",
+    "confirmed": true
+  },
+  "村人？": {
+    "zh": "村民？",
+    "note": "角色名。未知時保留問號",
+    "confirmed": true
+  },
+  "松永久秀": {
+    "zh": "松永久秀",
+    "note": "角色名。與發言欄「松永彈正」為同一人的不同稱呼",
+    "confirmed": true
+  },
+  "松永弾正": {
+    "zh": "松永彈正",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "森長可": {
+    "zh": "森長可",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "武田晴信": {
+    "zh": "武田晴信",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "水着ノッブ": {
+    "zh": "泳裝信長",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "永倉新八": {
+    "zh": "永倉新八",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "沖田オルタ": {
+    "zh": "沖田Alter",
+    "note": "角色名。オルタ保留英文 Alter",
+    "confirmed": true
+  },
+  "河上彦斎": {
+    "zh": "河上彥齋",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "煉獄": {
+    "zh": "煉獄",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "特型ぷるノッブ": {
+    "zh": "特型噗嚕諾布",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "狗奴の神官": {
+    "zh": "狗奴神官",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "神官らしきもの達": {
+    "zh": "看似神官的人們",
+    "note": "角色名／群體",
+    "confirmed": true
+  },
+  "良いスラノッブ": {
+    "zh": "好史萊姆諾布",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "茶々": {
+    "zh": "茶茶",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "葵": {
+    "zh": "葵",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "藤堂平助": {
+    "zh": "藤堂平助",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "蘭丸Ｘ": {
+    "zh": "蘭丸X",
+    "note": "角色名。Ｘ作半形 X",
+    "confirmed": true
+  },
+  "近藤勇": {
+    "zh": "近藤勇",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "長州藩兵": {
+    "zh": "長州藩兵",
+    "note": "角色名／群體",
+    "confirmed": true
+  },
+  "阿国オヤブン": {
+    "zh": "阿國老大",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "雑賀孫一": {
+    "zh": "雜賀孫一",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "青水人": {
+    "zh": "青水人",
+    "note": "角色名／種族名。亦作「青水人 (あおみずびと)」",
+    "confirmed": true
+  },
+  "駒姫": {
+    "zh": "駒姬",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "高杉晋作": {
+    "zh": "高杉晉作",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "？？？": {
+    "zh": "？？？",
+    "note": "角色名。未知角色忠實保留，不擅自補真名",
+    "confirmed": true
+  },
+  "ナレーション": {
+    "zh": "旁白",
+    "note": "角色名／系統敘事",
+    "confirmed": true
+  },
+  "謎の少女": {
+    "zh": "謎之少女",
+    "note": "角色名／未揭示身分時",
+    "confirmed": true
+  },
+  "お化け": {
+    "zh": "妖怪",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "お竜さん": {
+    "zh": "阿龍小姐",
+    "note": "角色名",
+    "confirmed": true
+  },
+  "みんな": {
+    "zh": "大家",
+    "note": "角色名／群體稱呼",
+    "confirmed": true
+  },
+  "クコチヒコ": {
+    "zh": "庫科知彥",
+    "note": "角色名。對話出現，暱稱庫科君",
+    "confirmed": true
+  },
+  "未来": {
+    "zh": "未來",
+    "note": "對御主的稱呼（壹與、卑彌呼等）。未來さん→未來／未來同學；未來クン/チャン→未來君（未來醬）",
+    "confirmed": true
+  },
+  "カルデア": {
+    "zh": "迦勒底",
+    "note": "組織名。語料 56 處全數一致",
+    "confirmed": true
+  },
+  "ぐだぐだチーム": {
+    "zh": "咕噠咕噠小隊",
+    "note": "組織名／活動隊伍",
+    "confirmed": true
+  },
+  "新選組": {
+    "zh": "新選組",
+    "note": "組織名",
+    "confirmed": true
+  },
+  "長州藩": {
+    "zh": "長州藩",
+    "note": "組織名",
+    "confirmed": true
+  },
+  "奇兵隊": {
+    "zh": "奇兵隊",
+    "note": "寶具名／部隊名。ルビ寫作『奇兵隊 (きへいたい)』，譯文保留讀音",
+    "confirmed": true
+  },
+  "三好三人衆": {
+    "zh": "三好三人眾",
+    "note": "組織名／人名群體",
+    "confirmed": true
+  },
+  "阿国座": {
+    "zh": "阿國座",
+    "note": "組織名／劇團",
+    "confirmed": true
+  },
+  "阿国一家": {
+    "zh": "阿國一家",
+    "note": "組織名",
+    "confirmed": true
+  },
+  "真田": {
+    "zh": "真田",
+    "note": "家名",
+    "confirmed": true
+  },
+  "武田": {
+    "zh": "武田",
+    "note": "家名",
+    "confirmed": true
+  },
+  "北条": {
+    "zh": "北條",
+    "note": "家名",
+    "confirmed": true
+  },
+  "徳川": {
+    "zh": "德川",
+    "note": "家名",
+    "confirmed": true
+  },
+  "群馬県": {
+    "zh": "群馬縣",
+    "note": "地名",
+    "confirmed": true
+  },
+  "群馬": {
+    "zh": "群馬",
+    "note": "地名。日文寫漢字「群馬」時譯「群馬」，語料一致",
+    "confirmed": true
+  },
+  "GUNMA": {
+    "zh": "GUNMA",
+    "note": "地名／本特異點品牌化寫法。日文寫拉丁字母時保留 GUNMA",
+    "confirmed": true
+  },
+  "上州": {
+    "zh": "上州",
+    "note": "地名。群馬舊稱",
+    "confirmed": true
+  },
+  "上野": {
+    "zh": "上野",
+    "note": "地名",
+    "confirmed": true
+  },
+  "上毛": {
+    "zh": "上毛",
+    "note": "地名",
+    "confirmed": true
+  },
+  "沼田城": {
+    "zh": "沼田城",
+    "note": "地名",
+    "confirmed": true
+  },
+  "沼田": {
+    "zh": "沼田",
+    "note": "地名",
+    "confirmed": true
+  },
+  "北関東": {
+    "zh": "北關東",
+    "note": "地名",
+    "confirmed": true
+  },
+  "下仁田": {
+    "zh": "下仁田",
+    "note": "地名",
+    "confirmed": true
+  },
+  "富岡": {
+    "zh": "富岡",
+    "note": "地名",
+    "confirmed": true
+  },
+  "富岡製糸場": {
+    "zh": "富岡製絲場",
+    "note": "地名／設施",
+    "confirmed": true
+  },
+  "邪馬台国": {
+    "zh": "邪馬台國",
+    "note": "地名",
+    "confirmed": true
+  },
+  "邪馬台": {
+    "zh": "邪馬台",
+    "note": "地名",
+    "confirmed": true
+  },
+  "狗奴国": {
+    "zh": "狗奴國",
+    "note": "地名。ルビ多作狗奴國 (く な こ く) 或狗奴 (く　な)",
+    "confirmed": true
+  },
+  "狗奴": {
+    "zh": "狗奴",
+    "note": "地名／勢力名。ルビ常保留 (く　な)",
+    "confirmed": true
+  },
+  "青城村": {
+    "zh": "青城村",
+    "note": "地名。ルビ『青城村 (あおぎむら)』，譯文保留讀音",
+    "confirmed": true
+  },
+  "甲斐": {
+    "zh": "甲斐",
+    "note": "地名",
+    "confirmed": true
+  },
+  "大坂": {
+    "zh": "大坂",
+    "note": "地名",
+    "confirmed": true
+  },
+  "本能寺": {
+    "zh": "本能寺",
+    "note": "地名",
+    "confirmed": true
+  },
+  "東北": {
+    "zh": "東北",
+    "note": "地名",
+    "confirmed": true
+  },
+  "グンマ": {
+    "zh": "GUNMA",
+    "note": "片假名單獨出現時跟品牌「GUNMA」走，不跟地名「群馬」。漢字「群馬」、拉丁「GUNMA」本身仍各依原文。",
+    "confirmed": true
+  },
+  "サーヴァント": {
+    "zh": "從者",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "マスター": {
+    "zh": "御主",
+    "note": "遊戲術語。敬語接尾：マスター様→御主大人、マスター君→御主君、マスターちゃん→御主醬",
+    "confirmed": true
+  },
+  "ファーストサーヴァント": {
+    "zh": "初始從者",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "英霊": {
+    "zh": "英靈",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "宝具": {
+    "zh": "寶具",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "令呪": {
+    "zh": "令咒",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "聖杯": {
+    "zh": "聖杯",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "青の聖杯": {
+    "zh": "青之聖杯",
+    "note": "遊戲術語／本活動道具",
+    "confirmed": true
+  },
+  "魔術": {
+    "zh": "魔術",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "魔術師": {
+    "zh": "魔術師",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "特異点": {
+    "zh": "特異點",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "微小特異点": {
+    "zh": "微小特異點",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "霊基": {
+    "zh": "靈基",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "人理": {
+    "zh": "人理",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "レイシフト": {
+    "zh": "靈子轉移",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "ビースト": {
+    "zh": "祖獸",
+    "note": "遊戲術語／職階級存在。不寫 Beast",
+    "confirmed": true
+  },
+  "祖の獣": {
+    "zh": "祖獸",
+    "note": "遊戲術語。與ビースト同譯",
+    "confirmed": true
+  },
+  "召喚": {
+    "zh": "召喚",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "契約": {
+    "zh": "契約",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "魔力": {
+    "zh": "魔力",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "真名": {
+    "zh": "真名",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "神体": {
+    "zh": "神體",
+    "note": "遊戲術語",
+    "confirmed": true
+  },
+  "所長": {
+    "zh": "所長",
+    "note": "職稱。指奧爾加瑪麗",
+    "confirmed": true
+  },
+  "先輩": {
+    "zh": "前輩",
+    "note": "瑪修對御主的稱呼",
+    "confirmed": true
+  },
+  "経営顧問": {
+    "zh": "經營顧問",
+    "note": "職稱。阿茲拉爾",
+    "confirmed": true
+  },
+  "大統領": {
+    "zh": "總統",
+    "note": "職稱。GUNMA瑪麗自稱",
+    "confirmed": true
+  },
+  "クラス": {
+    "zh": "職階",
+    "note": "遊戲術語。用作普通名詞「職階」；具體職階名見各條",
+    "confirmed": true
+  },
+  "セイバー": {
+    "zh": "Saber",
+    "note": "職階。語料保留英文",
+    "confirmed": true
+  },
+  "アーチャー": {
+    "zh": "Archer",
+    "note": "職階。語料保留英文",
+    "confirmed": true
+  },
+  "ランサー": {
+    "zh": "Lancer",
+    "note": "職階。語料保留英文",
+    "confirmed": true
+  },
+  "ライダー": {
+    "zh": "Rider",
+    "note": "職階。語料保留英文",
+    "confirmed": true
+  },
+  "キャスター": {
+    "zh": "Caster",
+    "note": "職階。語料保留英文",
+    "confirmed": true
+  },
+  "アサシン": {
+    "zh": "Assassin",
+    "note": "職階。語料保留英文",
+    "confirmed": true
+  },
+  "バーサーカー": {
+    "zh": "狂戰士",
+    "note": "職階。此職階未用英文 Berserker，與其他職階的英文寫法不同，見衝突清單備註",
+    "confirmed": true
+  },
+  "フォーリナー": {
+    "zh": "Foreigner",
+    "note": "職階。語料保留英文",
+    "confirmed": true
+  },
+  "オルタ": {
+    "zh": "Alter",
+    "note": "遊戲術語。沖田オルタ→沖田Alter",
+    "confirmed": true
+  },
+  "トリスメギストス": {
+    "zh": "特里斯墨吉斯忒斯",
+    "note": "專有名詞／迦勒底演算系統",
+    "confirmed": true
+  },
+  "スペース・ノブナガ": {
+    "zh": "Space信長",
+    "note": "活動專有名詞／角色稱號。語料 18 處一致",
+    "confirmed": true
+  },
+  "グンマドハウス": {
+    "zh": "グンマドハウス",
+    "note": "活動地名／設施。譯文書名號內保留片假名",
+    "confirmed": true
+  },
+  "グンマドッキング": {
+    "zh": "グンマドッキング",
+    "note": "活動術語。保留片假名",
+    "confirmed": true
+  },
+  "グンマバキ": {
+    "zh": "グンマ霸拔",
+    "note": "活動專有名詞。上州奇神，戲仿アラハバキ",
+    "confirmed": true
+  },
+  "アラハバキ": {
+    "zh": "荒霸拔",
+    "note": "專有名詞／兵器・神",
+    "confirmed": true
+  },
+  "ヤタガラス": {
+    "zh": "八咫烏",
+    "note": "專有名詞／雜賀的武器系統",
+    "confirmed": true
+  },
+  "銃神・ヤタガラスMG-01": {
+    "zh": "銃神・八咫烏MG-01",
+    "note": "寶具／武器名。ルビ作銃神 (じ ゅ う し ん)・八咫烏MG-01",
+    "confirmed": true
+  },
+  "クッコピア": {
+    "zh": "庫科皮亞",
+    "note": "地名／設施。初出現多作『庫科皮亞 (クッコピア)』，其後可單用庫科皮亞",
+    "confirmed": true
+  },
+  "ヤマタイガールズ": {
+    "zh": "邪馬台Girls",
+    "note": "活動團體名",
+    "confirmed": true
+  },
+  "ヤマタイプラザ": {
+    "zh": "邪馬台廣場",
+    "note": "活動地名／店鋪",
+    "confirmed": true
+  },
+  "ヒラグモちゃん": {
+    "zh": "平蜘蛛醬",
+    "note": "店鋪名。炸彈商店『平蜘蛛醬』",
+    "confirmed": true
+  },
+  "焼きまんじゅう": {
+    "zh": "烤饅頭",
+    "note": "名物",
+    "confirmed": true
+  },
+  "まんじゅう": {
+    "zh": "饅頭",
+    "note": "名物。ルビ可作饅頭 (まんじゅう)",
+    "confirmed": true
+  },
+  "こんにゃく": {
+    "zh": "蒟蒻",
+    "note": "名物／食物",
+    "confirmed": true
+  },
+  "下仁田ネギ": {
+    "zh": "下仁田蔥",
+    "note": "名物",
+    "confirmed": true
+  },
+  "上毛かるた": {
+    "zh": "上毛歌留多",
+    "note": "名物／歌留多",
+    "confirmed": true
+  },
+  "からっかぜ": {
+    "zh": "からっかぜ",
+    "note": "名物／風名。單獨作書名號時多保留假名；有ルビ時作「空風 (からっかぜ)」",
+    "confirmed": true
+  },
+  "空風": {
+    "zh": "空風",
+    "note": "名物。ルビ空風 (からっかぜ)",
+    "confirmed": true
+  },
+  "世界遺産": {
+    "zh": "世界遺產",
+    "note": "用語",
+    "confirmed": true
+  },
+  "テーマパーク": {
+    "zh": "主題樂園",
+    "note": "用語",
+    "confirmed": true
+  },
+  "ジェットパック": {
+    "zh": "噴射背包",
+    "note": "道具名",
+    "confirmed": true
+  },
+  "ジェットコースター": {
+    "zh": "雲霄飛車",
+    "note": "設施名",
+    "confirmed": true
+  },
+  "ダイナマイト": {
+    "zh": "炸藥",
+    "note": "用語／活動變體前綴，如炸藥利休",
+    "confirmed": true
+  },
+  "スライム": {
+    "zh": "史萊姆",
+    "note": "用語／怪物",
+    "confirmed": true
+  },
+  "サマーイベント": {
+    "zh": "夏季活動",
+    "note": "活動用語",
+    "confirmed": true
+  },
+  "バケーション": {
+    "zh": "假期",
+    "note": "用語",
+    "confirmed": true
+  },
+  "慰安旅行": {
+    "zh": "慰勞旅行",
+    "note": "用語",
+    "confirmed": true
+  },
+  "力あわせる百八十万": {
+    "zh": "齊心合力一百八十萬",
+    "note": "術式／上毛歌留多「ち」札",
+    "confirmed": true
+  },
+  "１００万パワーグンママリー": {
+    "zh": "一百萬威力GUNMA瑪麗",
+    "note": "技能／稱號",
+    "confirmed": true
+  },
+  "刀八毘沙門天": {
+    "zh": "刀八毘沙門天",
+    "note": "稱號。ルビ刀八毘沙門天 (とうはちびしゃもんてん)",
+    "confirmed": true
+  },
+  "草莽崛起": {
+    "zh": "草莽崛起",
+    "note": "用語。ルビ草莽崛起 (そうもうくっき)",
+    "confirmed": true
+  },
+  "大坂夏の陣": {
+    "zh": "大坂夏之陣",
+    "note": "史事名",
+    "confirmed": true
+  },
+  "天然理心流": {
+    "zh": "天然理心流",
+    "note": "劍術名",
+    "confirmed": true
+  },
+  "ジェット天然理心流": {
+    "zh": "噴射天然理心流",
+    "note": "劍術諧稱（沖田・J・總司）",
+    "confirmed": true
+  },
+  "昌幸": {
+    "zh": "昌幸",
+    "note": "人名。真田昌幸，ルビ昌幸 (まさゆき)",
+    "confirmed": true
+  },
+  "武市": {
+    "zh": "武市",
+    "note": "人名。武市半平太，稱武市先生",
+    "confirmed": true
+  },
+  "埴輪": {
+    "zh": "陶俑",
+    "note": "用語。ルビ常保留陶俑 (はにわ)",
+    "confirmed": true
+  },
+  "要衝": {
+    "zh": "要衝",
+    "note": "用語。ルビ要衝 (ようしょう)，譯文保留讀音",
+    "confirmed": true
+  },
+  "法螺貝": {
+    "zh": "法螺貝",
+    "note": "道具。ルビ法螺貝 (ほ ら が い)，譯文保留讀音",
+    "confirmed": true
+  },
+  "グンマドサーヴァント": {
+    "zh": "GUNMAド從者",
+    "note": "活動專有名詞。已確認採用較早的「GUNMAド從者」（品牌寫法），而非較多的「グンマド從者」。",
+    "confirmed": true
+  },
+  "ぐだぐだ": {
+    "zh": "咕噠咕噠",
+    "note": "活動用語。已確認以較多的「咕噠咕噠」為準，不保留假名。",
+    "confirmed": true
+  },
+  "ジェット": {
+    "zh": "噴射器",
+    "note": "道具略稱。單獨的「ジェット」多作「噴射器」（例：9416400010 齋藤「用那個噴射器暖暖嘛」）；「ジェットパック」作「噴射背包」；「私のジェット」可作「我的噴射」",
+    "confirmed": true
+  },
+  "蘭丸ブレード": {
+    "zh": "蘭丸Blade",
+    "note": "道具名。블레이드保留英文 Blade",
+    "confirmed": true
+  },
+  "涅槃寂静・万物一如": {
+    "zh": "涅槃寂靜・萬物一如",
+    "note": "寶具名。ルビ『涅槃寂靜・萬物一如 (ねはんじゃくじょう・ばんぶついちにょ)』",
+    "confirmed": true
+  },
+  "宗易": {
+    "zh": "宗易",
+    "note": "人名。千利休的法號，三好長慶如此稱呼",
+    "confirmed": true
+  },
+  "畿内": {
+    "zh": "畿內",
+    "note": "地名",
+    "confirmed": true
+  },
+  "一存": {
+    "zh": "一存",
+    "note": "人名。ルビ一存 (かずまさ)",
+    "confirmed": true
+  },
+  "実休": {
+    "zh": "實休",
+    "note": "人名。ルビ實休 (じっきゅう)",
+    "confirmed": true
+  },
+  "義興": {
+    "zh": "義興",
+    "note": "人名。ルビ義興 (よしおき)",
+    "confirmed": true
+  },
+  "冬康": {
+    "zh": "冬康",
+    "note": "人名",
+    "confirmed": true
+  },
+  "領域外の生命": {
+    "zh": "領域外的生命",
+    "note": "用語。與 Foreigner 職階相關",
+    "confirmed": true
+  }
+}
